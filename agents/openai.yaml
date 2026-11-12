@@ -1,0 +1,6 @@
+interface:
+  display_name: "Figma 与 HTML 设计交付"
+  short_description: "紧凑排布 Figma 交付大画板，或制作并验收离线 HTML 总览与交互原型"
+  default_prompt: "使用 $offline-design-prototype-html 按用户指定模板交付 Figma 大画板或 HTML；先分组再横排，通用内容独立，并验收完整画板或实际交互文件。"
+policy:
+  allow_implicit_invocation: true
